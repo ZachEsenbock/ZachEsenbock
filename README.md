@@ -8,10 +8,6 @@ I'm the founder of **WikiDev LLC**, a company dedicated to making the world of s
 - 👯 I'm always open to collaboration, especially on open source projects that align with WikiDev's mission of making software development more accessible.
 - ⚡ When I'm not coding or managing WikiDev, I love to play chess and go hiking. I find both activities help me relax and stimulate my mind in different ways.
 
-## Connect with me:
-
-LinkedIn | Twitter
-
 ## Languages and Tools:
 
 - **Languages**: Python, Rust, Java
