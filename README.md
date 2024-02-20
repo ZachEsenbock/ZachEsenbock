@@ -10,7 +10,7 @@ I'm the founder of **WikiDev LLC**, a company dedicated to making the world of s
 
 ## Languages and Tools:
 
-- **Languages**: Python, Rust, Java
+- **Languages**: Python, Rust, Java, Solidity
 - **Databases**: MySQL, PostgreSQL
 
 ---
