@@ -12,15 +12,7 @@ I built GatorBid from scratch to support timed and webcast auctions. The work sp
 
 An auction platform has several views of the same event: the bidder's screen, the clerk's controls, the database, and the finance workflow. Keeping those views consistent is a central engineering problem.
 
-```mermaid
-flowchart LR
-    Bidder[Bidder / staff interface] --> API[Command API]
-    API --> DB[(PostgreSQL)]
-    DB --> Outbox[Transactional outbox]
-    Outbox --> Realtime[Real-time delivery]
-    Realtime --> Bidder
-    DB --> Worker[Finance / background work]
-```
+![GatorBid architecture: command API, PostgreSQL, transactional outbox, real-time delivery and background workers.](../assets/gatorbid-architecture.svg)
 
 ## Decisions that matter
 

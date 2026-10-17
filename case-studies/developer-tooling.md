@@ -14,15 +14,7 @@ I explored how a terminal-based coding workflow could coordinate tasks with expl
 
 Tasks are parsed into a dependency graph, checked for missing references and cycles, and organized into deterministic execution waves. A terminal dashboard exposes the plan, run history, and communication between agents.
 
-```mermaid
-flowchart LR
-    Tasks[Task definitions] --> Validate[Validate dependency graph]
-    Validate --> Plan[Execution waves]
-    Plan --> Workers[Agent processes]
-    Workers --> Messages[Message spool / routing]
-    Workers --> UI[Terminal dashboard]
-    Messages --> UI
-```
+![Taskflow architecture: task definitions, graph validation, execution waves, agent processes, routing and dashboard.](../assets/taskflow-architecture.svg)
 
 ## Implementation focus
 

@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="350" viewBox="0 0 980 350" role="img" aria-labelledby="title desc">
+<title id="title">LoamAura: device to mobile</title><desc id="desc">Devices send telemetry through Azure IoT Hub to Python ingestion and SQL Server. The Python API owns recommendations and alerts, and the React Native app presents results and supports authenticated setup.</desc>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#52718e"/></marker></defs>
+<rect x="1" y="1" width="978" height="348" rx="14" fill="#f6f9fc" stroke="#c8d6e4"/>
+<text x="30" y="32" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="600" letter-spacing="1" fill="#45627f">LOAMAURA: DEVICE TO MOBILE</text>
+<path d="M270 99H370" fill="none" stroke="#52718e" stroke-width="2" marker-end="url(#arrow)"/>
+<path d="M610 99H710" fill="none" stroke="#52718e" stroke-width="2" marker-end="url(#arrow)"/>
+<path d="M830 136V228" fill="none" stroke="#52718e" stroke-width="2" marker-end="url(#arrow)"/>
+<path d="M710 265H610" fill="none" stroke="#52718e" stroke-width="2" marker-end="url(#arrow)"/>
+<path d="M370 265H270" fill="none" stroke="#52718e" stroke-width="2" marker-end="url(#arrow)"/>
+<path d="M150 228V136" fill="none" stroke="#52718e" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="30" y="62" width="240" height="74" rx="10" fill="#ffffff" stroke="#a6bdd2"/>
+<text x="150" y="94" text-anchor="middle" fill="#19334e" font-family="Segoe UI,Arial,sans-serif" font-size="19" font-weight="600">Pi / ESP32</text>
+<text x="150" y="117" text-anchor="middle" fill="#45627f" font-family="Segoe UI,Arial,sans-serif" font-size="14">Sensors and device identity</text>
+<rect x="370" y="62" width="240" height="74" rx="10" fill="#ffffff" stroke="#a6bdd2"/>
+<text x="490" y="94" text-anchor="middle" fill="#19334e" font-family="Segoe UI,Arial,sans-serif" font-size="19" font-weight="600">Azure IoT Hub</text>
+<text x="490" y="117" text-anchor="middle" fill="#45627f" font-family="Segoe UI,Arial,sans-serif" font-size="14">Authenticated telemetry</text>
+<rect x="710" y="62" width="240" height="74" rx="10" fill="#ffffff" stroke="#a6bdd2"/>
+<text x="830" y="94" text-anchor="middle" fill="#19334e" font-family="Segoe UI,Arial,sans-serif" font-size="19" font-weight="600">Python ingestion</text>
+<text x="830" y="117" text-anchor="middle" fill="#45627f" font-family="Segoe UI,Arial,sans-serif" font-size="14">Validate and persist</text>
+<rect x="710" y="228" width="240" height="74" rx="10" fill="#ffffff" stroke="#a6bdd2"/>
+<text x="830" y="260" text-anchor="middle" fill="#19334e" font-family="Segoe UI,Arial,sans-serif" font-size="19" font-weight="600">SQL Server</text>
+<text x="830" y="283" text-anchor="middle" fill="#45627f" font-family="Segoe UI,Arial,sans-serif" font-size="14">Account-scoped data</text>
+<rect x="370" y="228" width="240" height="74" rx="10" fill="#ffffff" stroke="#a6bdd2"/>
+<text x="490" y="260" text-anchor="middle" fill="#19334e" font-family="Segoe UI,Arial,sans-serif" font-size="19" font-weight="600">Python API</text>
+<text x="490" y="283" text-anchor="middle" fill="#45627f" font-family="Segoe UI,Arial,sans-serif" font-size="14">Recommendations and alerts</text>
+<rect x="30" y="228" width="240" height="74" rx="10" fill="#ffffff" stroke="#a6bdd2"/>
+<text x="150" y="260" text-anchor="middle" fill="#19334e" font-family="Segoe UI,Arial,sans-serif" font-size="19" font-weight="600">React Native</text>
+<text x="150" y="283" text-anchor="middle" fill="#45627f" font-family="Segoe UI,Arial,sans-serif" font-size="14">Mobile presentation</text>
+</svg>

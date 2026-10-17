@@ -12,17 +12,7 @@ LoamAura connects garden-monitoring devices to a mobile application. It brings t
 
 The work crosses four codebases, with explicit ownership of each step:
 
-```mermaid
-flowchart LR
-    Device[Pi / ESP32] --> IoT[Azure IoT Hub]
-    IoT --> Ingest[Python event ingestion]
-    Ingest --> DB[(SQL Server)]
-    DB --> API[Python API / recommendations]
-    API --> App[React Native app]
-    API --> Alerts[Notification delivery]
-    App --> Setup[Authenticated device setup]
-    Setup --> Device
-```
+![LoamAura architecture: devices, Azure IoT Hub, ingestion, SQL Server, API and mobile app.](../assets/loamaura-architecture.svg)
 
 ## Decisions that matter
 
