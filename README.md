@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZachEsenbock/ZachEsenbock/main/assets/profile-dark.svg?v=founder-executive">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZachEsenbock/ZachEsenbock/main/assets/profile-light.svg?v=founder-executive">
-  <img alt="Zach Esenbock — founder and executive. Product vision, technology strategy, and execution." src="https://raw.githubusercontent.com/ZachEsenbock/ZachEsenbock/main/assets/profile-light.svg?v=founder-executive" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZachEsenbock/ZachEsenbock/f7e189b0b7eb483afcb01c82f44405df74d00273/assets/profile-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZachEsenbock/ZachEsenbock/f7e189b0b7eb483afcb01c82f44405df74d00273/assets/profile-light.svg">
+  <img alt="Zach Esenbock — founder and executive. Product vision, technology strategy, and execution." src="https://raw.githubusercontent.com/ZachEsenbock/ZachEsenbock/f7e189b0b7eb483afcb01c82f44405df74d00273/assets/profile-light.svg" width="100%">
 </picture>
 
 I'm Zach, a **founder and executive** based in Kansas City. I build software products, set product and technical direction, and lead teams from discovery through delivery and operations. My work spans healthcare platforms, real-time marketplaces, connected devices, and applied AI.
