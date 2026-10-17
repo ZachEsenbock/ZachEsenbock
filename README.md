@@ -8,7 +8,7 @@ I'm Zach, a **founder and executive** based in Kansas City. I build software pro
 
 At **Octo Dev**, I lead **five engineers** and coordinate **11 external integrations**. I work directly with customers and partners, turn ambiguous business needs into delivery priorities, and stay accountable through rollout and production support.
 
-**[LinkedIn](https://www.linkedin.com/in/zach-esenbock/)** · **[Runnable .NET lab](https://github.com/OctoHoldingsLLC/octo-integration-lab)** · **[Selected work](#selected-work)**
+**[LinkedIn](https://www.linkedin.com/in/zach-esenbock/)** · **[Octo Dev](https://octoholdings.com/)** · **[Runnable .NET lab](https://github.com/OctoHoldingsLLC/octo-integration-lab)** · **[Selected work](#selected-work)**
 
 ## Selected work
 
