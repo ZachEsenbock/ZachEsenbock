@@ -25,7 +25,7 @@ At **Octo Dev**, I lead **five engineers** and coordinate **11 external integrat
 On one constrained healthcare platform, I optimized stored procedures, migrated hosting to Linux containers, introduced a Valkey-backed real-time backplane, and reconfigured background processing for horizontal scaling.
 
 - **Database CPU consumption reduced by approximately 10×.**
-- **A critical workflow improved from 45+ seconds to roughly 100 milliseconds.**
+- **Administrative order listing improved from 45+ seconds to roughly 100 milliseconds in my measurements.** I reworked the query to select the requested page before loading related details.
 
 [Read the platform turnaround →](https://github.com/ZachEsenbock/ZachEsenbock/blob/main/case-studies/healthcare.md)
 

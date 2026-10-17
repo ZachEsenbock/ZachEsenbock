@@ -19,12 +19,12 @@ On one constrained healthcare platform, I worked across the database, hosting, r
 | Area | Change / result |
 | --- | --- |
 | Database | Optimized high-load stored procedures; database CPU consumption fell by approximately 10×. |
-| Critical workflow | Reduced latency from more than 45 seconds to roughly 100 milliseconds. |
+| Administrative order listing | Improved from 45+ seconds to roughly 100 milliseconds in my measurements. |
 | Hosting | Migrated legacy hosting to Linux containers. |
 | Shared state | Added a Valkey-backed real-time backplane and shared API rate-limit state across replicas. |
 | Background work | Reconfigured Hangfire to support horizontal scaling. |
 
-The performance figures are approximate outcomes from that platform, rather than a general benchmark or capacity guarantee.
+I reworked the `OrderByAdmin` stored procedure to filter and page order keys first, then load related details only for that page. Targeted indexes and fewer follow-up database reads reduced unnecessary work. I extended the approach to search and sorting, checking that filtering, counts, and ordering stayed consistent as the query evolved.
 
 ## Integration ownership
 
