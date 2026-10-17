@@ -45,6 +45,6 @@ I use AI coding tools in my engineering workflow and build applications around C
 
 ---
 
-**Open to senior software engineering and hands-on technical leadership opportunities.** Remote US preferred; open to US relocation. [Let's connect on LinkedIn.](https://www.linkedin.com/in/zach-esenbock/)
+[Let's connect on LinkedIn.](https://www.linkedin.com/in/zach-esenbock/)
 
 *The linked case studies describe my work without publishing private project source. The Codex work is an experimental fork extension; the performance figures describe one healthcare platform.*
