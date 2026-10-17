@@ -8,7 +8,7 @@ I'm Zach, a software engineer and architect in Kansas City. I build full-stack p
 
 At **Octo Dev**, I lead **five engineers** and coordinate **11 external integrations**, while staying hands-on with architecture, implementation, releases, and production support.
 
-**[LinkedIn](https://www.linkedin.com/in/zach-esenbock/)** · **[Selected work](#selected-work)** · **[Public tooling experiment](https://github.com/ZachEsenbock/codex/tree/sub-agents-rebase/codex-rs/taskflow)**
+**[LinkedIn](https://www.linkedin.com/in/zach-esenbock/)** · **[Runnable .NET lab](https://github.com/OctoHoldingsLLC/octo-integration-lab)** · **[Selected work](#selected-work)**
 
 ## Selected work
 
@@ -17,6 +17,7 @@ At **Octo Dev**, I lead **five engineers** and coordinate **11 external integrat
 | **[GatorBid](https://github.com/ZachEsenbock/ZachEsenbock/blob/main/case-studies/gatorbid.md)** | An auction marketplace built from scratch, spanning bidding, staff operations, payments, and invoicing. | Real-time state, concurrency, idempotency, transactional outbox, full-stack product delivery. |
 | **[Healthcare platforms](https://github.com/ZachEsenbock/ZachEsenbock/blob/main/case-studies/healthcare.md)** | Performance and infrastructure modernization, external integrations, and LLM document workflows. | C#/.NET, SQL performance, distributed state, background processing, production recovery. |
 | **[LoamAura](https://github.com/ZachEsenbock/ZachEsenbock/blob/main/case-studies/loamaura.md)** | A connected garden-monitoring product built from scratch across mobile, APIs, cloud ingestion, and device software. | React Native, Python, Azure IoT, device identity, telemetry, firmware delivery. |
+| **[Integration reliability lab](https://github.com/OctoHoldingsLLC/octo-integration-lab)** | A runnable .NET/PostgreSQL lab with fictional orders and controlled partner failures. | Durable webhooks, inbox/outbox, retries, idempotency, OpenTelemetry. |
 | **[Agent orchestration](https://github.com/ZachEsenbock/ZachEsenbock/blob/main/case-studies/developer-tooling.md)** | An experimental Rust task planner and terminal dashboard in my Codex CLI fork. | Dependency graphs, process coordination, message routing, developer experience. |
 
 ### A production performance result
