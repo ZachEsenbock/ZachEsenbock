@@ -24,7 +24,7 @@ On one constrained healthcare platform, I worked across the database, hosting, r
 | Shared state | Added a Valkey-backed real-time backplane and shared API rate-limit state across replicas. |
 | Background work | Reconfigured Hangfire to support horizontal scaling. |
 
-I reworked the `OrderByAdmin` stored procedure to filter and page order keys first, then load related details only for that page. Targeted indexes and fewer follow-up database reads reduced unnecessary work. I extended the approach to search and sorting, checking that filtering, counts, and ordering stayed consistent as the query evolved.
+I reworked the administrative order-listing query to filter and page order keys first, then load related details only for that page. Targeted indexes and fewer follow-up database reads reduced unnecessary work. I extended the approach to search and sorting, checking that filtering, counts, and ordering stayed consistent as the query evolved.
 
 ## Integration ownership
 
