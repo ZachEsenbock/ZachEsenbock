@@ -1,12 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-labelledby="title desc">
-<title id="title">Zach Esenbock — Software engineer and architect</title>
-<desc id="desc">Full-stack products, applied AI, and reliable systems. An architectural diagram connects product, services, data, and operations.</desc>
+<title id="title">Zach Esenbock — Founder and executive</title>
+<desc id="desc">Product vision, technology strategy, and execution. Product and strategy connect through teams to delivery.</desc>
 <rect width="1200" height="330" rx="18" fill="#0d1726"/>
 <path d="M30 0V330 M1170 0V330 M0 30H1200 M0 300H1200" stroke="#2a415b" stroke-opacity=".35"/>
 <rect x="60" y="58" width="38" height="5" rx="2.5" fill="#9fe8c1"/>
-<text x="60" y="107" fill="#a3b8ce" font-family="Segoe UI,Arial,sans-serif" font-size="16" letter-spacing="3">SOFTWARE ENGINEER &amp; ARCHITECT</text>
+<text x="60" y="107" fill="#a3b8ce" font-family="Segoe UI,Arial,sans-serif" font-size="16" letter-spacing="3">FOUNDER &amp; EXECUTIVE</text>
 <text x="56" y="178" fill="#f0f6fc" font-family="Segoe UI,Arial,sans-serif" font-size="61" font-weight="700" letter-spacing="-2">Zach Esenbock</text>
-<text x="60" y="222" fill="#a3b8ce" font-family="Segoe UI,Arial,sans-serif" font-size="21">Full-stack products. Applied AI. Reliable systems.</text>
+<text x="60" y="222" fill="#a3b8ce" font-family="Segoe UI,Arial,sans-serif" font-size="21">Product vision. Technology strategy. Execution.</text>
 <text x="60" y="276" fill="#a3b8ce" font-family="Segoe UI,Arial,sans-serif" font-size="14" letter-spacing="1">KANSAS CITY, MO</text>
 <path d="M791 105H825V165H866 M791 225H825V165 M997 165H1034" fill="none" stroke="#93b9ff" stroke-width="2"/>
 <rect x="687" y="78" width="125" height="54" rx="10" fill="#142336" stroke="#2a415b"/>
@@ -14,6 +14,6 @@
 <rect x="855" y="138" width="142" height="54" rx="10" fill="#142336" stroke="#2a415b"/>
 <rect x="1034" y="138" width="111" height="54" rx="10" fill="#142336" stroke="#2a415b"/>
 <g fill="#f0f6fc" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="600" text-anchor="middle">
-<text x="749" y="111">PRODUCT</text><text x="749" y="231">OPERATIONS</text><text x="926" y="171">SERVICES</text><text x="1089" y="171">DATA</text></g>
+<text x="749" y="111">PRODUCT</text><text x="749" y="231">STRATEGY</text><text x="926" y="171">TEAMS</text><text x="1089" y="171">DELIVERY</text></g>
 <circle cx="825" cy="165" r="5" fill="#9fe8c1"/><circle cx="1016" cy="165" r="3" fill="#9fe8c1"/>
 </svg>
